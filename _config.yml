@@ -24,7 +24,6 @@ title   : Bear with Data
 description: > # this means to ignore newlines until "Language & timezone"
   You just have to bear with it!
 
-remote-theme: jekyll-text-theme
 ## => Language and Timezone
 ##############################
 lang: # the language of your site, default as "en"
